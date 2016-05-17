@@ -13,7 +13,7 @@ Custom tweaks for WooCommerce based sites.
 
 Think of this plugin as a handy helper for those little nags that come with setting up your WooCommerce based store. 
 
-*Note:* This plugin currently only performs rewrite rules for the store permalinks to allow the use of "shop" as a category base without running in to the "Oops 404" moments.
+*Note:* This plugin currently only performs rewrite rules for the store permalinks to allow the use of "shop" as a category base without running in to those "Oops 404" moments.
 
 == Installation ==
 
