@@ -1,6 +1,6 @@
 === WCTweaks ===
 Contributors: WPDevHQ
-Tags: theme, edit, edits, customise, customisation, customize, customization, css, php, jquery
+Tags: theme, edit, edits, customise, customization, customize, customization, css, php, jquery
 Requires at least: 4.0.0
 Tested up to: 4.6-alpha
 Stable tag: 1.0.0
@@ -14,6 +14,8 @@ Custom tweaks for WooCommerce based sites.
 Think of this plugin as a handy helper for those little nags that come with setting up your WooCommerce based store. 
 
 *Note:* This plugin currently only performs rewrite rules for the store permalinks to allow the use of "shop" as a category base without running in to the "Oops 404" moments.
+This is a work in progress project and does not currently support sub categories i.e. yourdomain.tld/shop/main-category/second-category 
+Secondary categories are accessible at yourdomain.tld/shop/second-category
 
 == Installation ==
 
@@ -26,6 +28,10 @@ Think of this plugin as a handy helper for those little nags that come with sett
 
 * Activate the plugin.
 * Go to Settings and set your permalinks :)
+
+== Participation And Contribution ==
+
+Everyone is welcome to contribute code and improvements. Bare in mind though that this is WooCommerce tweaks plugin and is theme agnostic!
 
 == Frequently Asked Questions ==
 
