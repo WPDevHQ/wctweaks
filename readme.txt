@@ -19,10 +19,9 @@ Secondary categories are accessible at yourdomain.tld/shop/second-category
 
 == Installation ==
 
-1. Upload `theme-customisations` to the `/wp-content/plugins/` directory
-2. Add your customisations to the plugin either locally or via Plugins > Editor in the Dashboard
-3. Activate the plugin through the 'Plugins' menu in WordPress
-4. Done!
+1. Upload `wctweaks` to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Done!
 
 == Usage ==
 
